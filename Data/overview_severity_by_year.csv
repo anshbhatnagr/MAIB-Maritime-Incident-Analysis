@@ -1,0 +1,30 @@
+event_year,occurrence_severity,count
+2018,Less Serious,1
+2018,Marine Incident,2
+2019,Less Serious,9
+2019,Marine Incident,8
+2019,Very Serious,1
+2020,Less Serious,608
+2020,Marine Incident,494
+2020,Serious,81
+2020,Very Serious,32
+2021,Less Serious,445
+2021,Marine Incident,932
+2021,Serious,75
+2021,Very Serious,47
+2022,Less Serious,395
+2022,Marine Incident,738
+2022,Serious,70
+2022,Very Serious,53
+2023,Less Serious,600
+2023,Marine Incident,884
+2023,Serious,47
+2023,Very Serious,61
+2024,Less Serious,560
+2024,Marine Incident,814
+2024,Serious,82
+2024,Very Serious,58
+2025,Less Serious,498
+2025,Marine Incident,887
+2025,Serious,71
+2025,Very Serious,46

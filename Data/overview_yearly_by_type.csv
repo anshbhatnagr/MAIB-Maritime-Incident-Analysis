@@ -1,0 +1,51 @@
+event_year,main_event_l1_grouped,count
+2018,Accident to person(s),1
+2018,Damage / Loss Of Equipment,2
+2019,Accident to person(s),3
+2019,Collision,6
+2019,Contact,2
+2019,Damage / Loss Of Equipment,4
+2019,Grounding / Stranding,2
+2019,Loss Of Control,1
+2020,Accident to person(s),289
+2020,Collision,75
+2020,Contact,128
+2020,Damage / Loss Of Equipment,112
+2020,Grounding / Stranding,146
+2020,Loss Of Control,292
+2020,Other,173
+2021,Accident to person(s),356
+2021,Collision,76
+2021,Contact,107
+2021,Damage / Loss Of Equipment,285
+2021,Grounding / Stranding,190
+2021,Loss Of Control,274
+2021,Other,211
+2022,Accident to person(s),373
+2022,Collision,76
+2022,Contact,90
+2022,Damage / Loss Of Equipment,278
+2022,Grounding / Stranding,124
+2022,Loss Of Control,181
+2022,Other,134
+2023,Accident to person(s),527
+2023,Collision,96
+2023,Contact,103
+2023,Damage / Loss Of Equipment,409
+2023,Grounding / Stranding,123
+2023,Loss Of Control,192
+2023,Other,142
+2024,Accident to person(s),450
+2024,Collision,84
+2024,Contact,99
+2024,Damage / Loss Of Equipment,405
+2024,Grounding / Stranding,144
+2024,Loss Of Control,184
+2024,Other,148
+2025,Accident to person(s),382
+2025,Collision,113
+2025,Contact,111
+2025,Damage / Loss Of Equipment,415
+2025,Grounding / Stranding,137
+2025,Loss Of Control,218
+2025,Other,126
