@@ -1,6 +1,6 @@
 # MAIB-Maritime-Incident-Analysis
 
-This project analyzes a cleaned MAIB-style maritime incident dataset using Python and Jupyter notebooks.  
+This project analyzes a cleaned MAIB maritime incident dataset (from maib.co.uk) using Python and Jupyter notebooks.  
 The goal is to explore reporting patterns, incident severity, event types, geography, environmental conditions, SAR involvement, and narrative trends across incidents.
 
 ## Project objective
